@@ -126,7 +126,8 @@ restaurant.show_queue()
 ```
 
 | รูปผลการทดลอง |
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/ae39595e-fb9b-4ef5-807b-be888dadeae8)
+
 
 ### แบบฝึกหัด
 1. ให้เพิ่มเมธอด `clear()` ในคลาส Queue เพื่อล้างข้อมูลทั้งหมดในคิว
