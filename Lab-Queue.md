@@ -79,6 +79,10 @@ print("ข้อมูลคิวแรก:", q.front())  # ควรได้ 
 
 | รูปผลการทดลอง |
 
+
+![image](https://github.com/user-attachments/assets/09c3e0e6-69e9-4402-ba12-36e3e582daf6)
+
+
 #### ตอนที่ 2: การประยุกต์ใช้คิวในการจำลองการรอคิวร้านอาหาร
 
 ```python
@@ -125,6 +129,9 @@ restaurant.show_queue()
 ```
 
 | รูปผลการทดลอง |
+
+![image](https://github.com/user-attachments/assets/652989a6-f94e-4134-a460-a84a5753ce6e)
+
 
 ### แบบฝึกหัด
 1. ให้เพิ่มเมธอด `clear()` ในคลาส Queue เพื่อล้างข้อมูลทั้งหมดในคิว
