@@ -129,6 +129,13 @@ restaurant.show_queue()
 
 | รูปผลการทดลอง |
 
+![Screenshot 2025-01-02 105826](https://github.com/user-attachments/assets/7513b268-2ca2-41ec-8e97-6b0a2c5ff351)
+
+หลังการแก้ไข
+
+![image](https://github.com/user-attachments/assets/6e106ce3-5fd2-410f-802c-5960186644c2)
+
+
 ### แบบฝึกหัด
 1. ให้เพิ่มเมธอด `clear()` ในคลาส Queue เพื่อล้างข้อมูลทั้งหมดในคิว
 2. ให้เพิ่มเมธอด `peek_last()` ในคลาส Queue เพื่อดูข้อมูลตัวสุดท้ายในคิวโดยไม่นำออก
